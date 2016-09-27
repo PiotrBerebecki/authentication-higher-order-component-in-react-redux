@@ -1,6 +1,8 @@
-# React and Redux Higher Order Components
+# Authentication Higher Order Component in React and Redux
 
-<!-- The app has been developed by Piotr Berebecki as part of undertaking an excellent course: [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial) by Stephen Grider. -->
+The app shows the list of resources only to authenticated (signed in) users. Users who are not signed in are redirected to home page.
+
+The app has been developed by Piotr Berebecki as part of undertaking an excellent course: [Advanced React and Redux](https://www.udemy.com/react-redux-tutorial) by Stephen Grider.
 
 Development tools and techniques include:
 
@@ -10,11 +12,6 @@ Development tools and techniques include:
 * Redux
 * Webpack
 * Node
-* Test-driven development(TDD)
-* Chai (make assertions with `expect`)
-* Chai-jquery (`find` elements, jQuery-specific assertions)
-* React Test Utilities (`renderIntoDocument`, `Simulate` events)
-* Bootstrap
 * Git
 * GitHub
 
