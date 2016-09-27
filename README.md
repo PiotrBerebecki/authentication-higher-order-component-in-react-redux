@@ -20,7 +20,7 @@ Development tools and techniques include:
 ## Getting Started
 
 ```
-  > git clone https://github.com/PiotrBerebecki/comment-box-react-redux.git
+  > git clone https://github.com/PiotrBerebecki/authentication-higher-order-component-in-react-redux.git
   > cd comment-box-react-redux
   > npm install
   > npm start
