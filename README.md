@@ -14,6 +14,7 @@ Development tools and techniques include:
 * Chai (make assertions with `expect`)
 * Chai-jquery (`find` elements, jQuery-specific assertions)
 * React Test Utilities (`renderIntoDocument`, `Simulate` events)
+* Bootstrap
 * Git
 * GitHub
 
